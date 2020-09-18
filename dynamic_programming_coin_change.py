@@ -1,3 +1,4 @@
+# super cool video which helps me a lot in this challenge! https://youtu.be/jgiZlGzXMBw
 def coin_change(number: int, coins: list) -> int:
     empty_arr = []
     for _ in range(number + 1):
